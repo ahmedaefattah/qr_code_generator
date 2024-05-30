@@ -29,3 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Screenshot
 
   ![screenshot](https://github.com/ahmedaefattah/qr_code_generator/blob/main/screenshots/screenshot.png)
+  
+## Live Demo
+
+* [QrCodeGenerator](https://qr-code-generator-ahmedaefattah.netlify.app/)
